@@ -98,6 +98,9 @@ p {
   p {
     text-align: center;
   }
+  .about-paragraphs p {
+    font-size: 15px;
+  }
   .project-link {
     display: block;
     text-align: center;
